@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BTThucHanhDiDong">
         <activity
+            android:name=".screen1lab3a"
+            android:exported="false" />
+        <activity
             android:name=".screen2labb2"
             android:exported="false" />
         <activity
